@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-mamede1" alt="gabriel-mamede1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fpsgbr" target="blank"><img src="https://img.shields.io/twitter/follow/fpsgbr?logo=twitter&style=for-the-badge" alt="fpsgbr" /></a> </p>
 
 - 🔭 No momento estou trabalhando em um **Escritório de Contabilidade**
 
